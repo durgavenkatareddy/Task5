@@ -24,5 +24,5 @@
 - Pandas
 - Seaborn
 - Matplotlib
-- Jupyter Notebook
+- Google colab
 
